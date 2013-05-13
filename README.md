@@ -15,5 +15,5 @@ The core plugin is [Nodeclipse-1](https://github.com/Nodeclipse/nodeclipse-1)
 For Eclipse distribution with Nodeclipse & Node.js IDE preinstalled check
 Nodeclipse NTS at https://sourceforge.net/projects/nodeclipse/ (Beta).
 
-The easyest way to support the projects is add star to the the project you like. 
+The easiest way to support the projects is add star to the the project you like. 
 (You need to have GitHub account and be logged in.)
