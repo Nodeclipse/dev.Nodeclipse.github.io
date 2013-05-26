@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 
+Code Style Code Template for Nodeclipse.org
+
+@author Paul Verest
+@version 1.2 2013/4/28
+
+To start using open Window -> Preferences
+Java \ Code Style \ Code Template
+Press [Import...] button and select this file.
+ -->
+<templates>
+<template autoinsert="false" context="newtype_context" deleted="false" description="Newly created files" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.newtype" name="newtype">${filecomment}
+${package_declaration}
+
+/**
+ * 
+ * @since ${date}
+ * @author ${user} 
+ */
+${typecomment}
+${type_declaration}</template></templates>
