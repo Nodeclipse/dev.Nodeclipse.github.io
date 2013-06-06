@@ -24,3 +24,12 @@ GitHub pages docs [reference](https://help.github.com/articles/using-jekyll-with
 	gem 'maruku',     '=0.6.1'
 	gem 'rdiscount',  '=1.6.8'
 	gem 'RedCloth',   '=4.2.9'
+	
+	
+## stackoverflow 
+	
+[Is there a command line utility for rendering github flavored markdown?](	
+http://stackoverflow.com/questions/7694887/is-there-a-command-line-utility-for-rendering-github-flavored-markdown)	
+
+[Static web site with Markdown (GitHub pages actually) / Jekill alternatives](
+http://stackoverflow.com/questions/16504449/static-web-site-with-markdown-github-pages-actually-jekill-alternatives)
