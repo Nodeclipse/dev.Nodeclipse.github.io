@@ -3,4 +3,5 @@ layout: post
 title: Blogging post 1
 ---
 
-bla bla bla
+Marketplace logo should be
+110x80
