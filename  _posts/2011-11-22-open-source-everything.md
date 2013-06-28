@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plain
 title: Open Source (Almost) Everything
 ---
 
