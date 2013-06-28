@@ -12,3 +12,4 @@ test Index2
     {% endfor %}
   </ul>
 
+Hint: When GitHub Jekyll config - associate *.yml files with Scrapbook (actually from JDT)
