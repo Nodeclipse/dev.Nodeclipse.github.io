@@ -22,6 +22,9 @@ Q: Can I specify which Mozilla profile gets used?
 
 
 
+http://wiki.eclipse.org/How_to_report_a_deadlock
+
+
 
 
 
