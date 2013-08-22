@@ -25,6 +25,17 @@ Q: Can I specify which Mozilla profile gets used?
 http://wiki.eclipse.org/How_to_report_a_deadlock
 
 
+### Tycho
+
+### Eclipse Common Build Infrastructure (CBI)
+
+The Eclipse CBI stack features Git (the SCM), Hudson (the CI server), Nexus (Maven repository), Tycho and p2. While CBI at Eclipse is not a new initiative (early work dates back to 2006), recent technologies such as Tycho have greatly facilitated the effort.
+
+In this article, we'll explore the tools in the CBI stack as we outline the steps required to migrate a typical project from PDE build to CBI.
+
+<http://www.eclipse.org/community/eclipse_newsletter/2013/august/article3.php>
+
+
 
 
 
