@@ -1,2 +1,5 @@
 markdown: rdiscount
 pygments: true
+name: Nodeclipse.github.io
+description: Nodedeclipse development
+url: http://nodeclipse.github.io
